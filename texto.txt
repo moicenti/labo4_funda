@@ -1,1 +1,0 @@
-Hola este es un texto solo accesible en la rama1 si cambian a main no me encontraran :/
